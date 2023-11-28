@@ -13,5 +13,4 @@
 
 ## The traces will be available at your grafana cloud explore tab, under the tempo datasource
 
-![[grafana-screenshot.PNG]]
-
+![Grafana screenshot](grafana-screenshot.PNG)
