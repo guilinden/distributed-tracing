@@ -14,4 +14,6 @@
 
 ## The traces will be available at your grafana cloud explore tab, under the tempo datasource
 
+Search with TraceQL using the following query: {}
+
 ![Grafana screenshot](grafana-screenshot.PNG)
