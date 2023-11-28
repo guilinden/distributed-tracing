@@ -10,6 +10,7 @@
 
 - http://localhost:8080/users-delay-background/123
 - http://localhost:8080/users-delay/123
+- http://localhost:8081/users/123
 
 ## The traces will be available at your grafana cloud explore tab, under the tempo datasource
 
