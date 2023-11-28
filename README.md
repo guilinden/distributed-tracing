@@ -1,4 +1,4 @@
-# Go microservices for demonstrating distributed tracing with OpenTelemetry + Grafana Tempo
+# Go microservices using Echo for demonstrating distributed tracing with OpenTelemetry + Grafana Tempo
 
 ## Prerequites:
 
