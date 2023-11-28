@@ -4,7 +4,7 @@
 
 1. Grafana Cloud account (Free): https://grafana.com/products/cloud/
 2. Create `OTEL_EXPORTER_OTLP_HEADERS` environment variable following the docs in (https://grafana.com/docs/grafana-cloud/send-data/otlp/send-data-otlp/#push-directly-from-applications-using-the-opentelemetry-sdks)
-3. run "docker compose up"
+3. Run "docker compose up"
 
 ## Access the following endpoints to generate traces
 
